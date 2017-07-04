@@ -1,0 +1,9 @@
+C:\dev\txtrpg\txtrpg\bin\Debug\gamedemo.exe.config
+C:\dev\txtrpg\txtrpg\bin\Debug\data.xml
+C:\dev\txtrpg\txtrpg\bin\Debug\gamedemo.exe
+C:\dev\txtrpg\txtrpg\bin\Debug\gamedemo.pdb
+C:\dev\txtrpg\txtrpg\bin\Debug\txtengine.dll
+C:\dev\txtrpg\txtrpg\bin\Debug\txtengine.pdb
+C:\dev\txtrpg\txtrpg\obj\Debug\gamedemo.csprojResolveAssemblyReference.cache
+C:\dev\txtrpg\txtrpg\obj\Debug\gamedemo.exe
+C:\dev\txtrpg\txtrpg\obj\Debug\gamedemo.pdb

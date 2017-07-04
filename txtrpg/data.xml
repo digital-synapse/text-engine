@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+
+  <title>
+     dBP dBP dBP dBP dBBBBBb  dBBBP dBBBBBb       dBBBBBBP dBBBP`Bb  .BP dBBBBBBP
+                dBP      dB'            dBP                         .BP          
+   dBBBBBP     dBP   dBBBP' dBBP    dBBBBK         dBP   dBBP     dBBK    dBP    
+  dBP dBP     dBP   dBP    dBP     dBP  BB        dBP   dBP      dB'     dBP     
+ dBP dBP     dBP   dBP    dBBBBP  dBP  dB'       dBP   dBBBBP   dB' dBP dBP         
+  </title>
+ 
+   <asteroid>
+    <frame>
+   _----_  
+  /      \ 
+ |        |
+  \_    __/
+    \__/   
+    </frame>    
+    <frame>
+  _,---.    
+ /      \
+ \       | 
+ /    __/  
+ \___/
+    </frame>
+    <frame>
+  __.---.
+ /       \
+|         |
+ \__     /
+    \___/
+    </frame>
+ </asteroid>
+
+  <ship>
+    <frame>
+   ^   
+'_/ \_'
+    </frame>
+    <frame>
+   ^   
+   '\  
+    </frame>
+    <frame>
+   ^   
+  /'
+    </frame>
+  </ship>
+
+</data>

@@ -1,0 +1,5 @@
+C:\dev\txtrpg\txtengine\bin\Debug\txtengine.dll
+C:\dev\txtrpg\txtengine\bin\Debug\txtengine.pdb
+C:\dev\txtrpg\txtengine\obj\Debug\txtengine.csprojResolveAssemblyReference.cache
+C:\dev\txtrpg\txtengine\obj\Debug\txtengine.dll
+C:\dev\txtrpg\txtengine\obj\Debug\txtengine.pdb

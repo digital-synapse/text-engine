@@ -1,0 +1,13 @@
+E:\dev\fun\txtrpg\txtrpg\bin\Debug\txtrpg.exe.config
+E:\dev\fun\txtrpg\txtrpg\bin\Debug\txtrpg.exe
+E:\dev\fun\txtrpg\txtrpg\bin\Debug\txtrpg.pdb
+E:\dev\fun\txtrpg\txtrpg\obj\Debug\txtrpg.csprojResolveAssemblyReference.cache
+E:\dev\fun\txtrpg\txtrpg\obj\Debug\txtrpg.exe
+E:\dev\fun\txtrpg\txtrpg\obj\Debug\txtrpg.pdb
+C:\dev\txtrpg\txtrpg\bin\Debug\txtrpg.exe.config
+C:\dev\txtrpg\txtrpg\obj\Debug\txtrpg.exe
+C:\dev\txtrpg\txtrpg\obj\Debug\txtrpg.pdb
+C:\dev\txtrpg\txtrpg\bin\Debug\txtrpg.exe
+C:\dev\txtrpg\txtrpg\bin\Debug\txtrpg.pdb
+C:\dev\txtrpg\txtrpg\obj\Debug\txtrpg.csprojResolveAssemblyReference.cache
+C:\dev\txtrpg\txtrpg\bin\Debug\data.xml
